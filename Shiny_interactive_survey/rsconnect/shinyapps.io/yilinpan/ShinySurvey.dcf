@@ -1,0 +1,12 @@
+name: ShinySurvey
+title:
+username:
+account: yilinpan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 59975
+bundleId: 1045704
+url: https://yilinpan.shinyapps.io/ShinySurvey/
+when: 1508995995.54532
+asMultiple: FALSE
+asStatic: FALSE
